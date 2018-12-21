@@ -88,9 +88,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.1254509646876329,
+          "green": 0.1254509646876329,
+          "red": 0.8463807397959183
         },
         "fillType": 0,
         "isEnabled": true,
@@ -105,9 +105,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.1662481398809524,
+          "green": 0.7653061224489796,
+          "red": 0.6391458136201151
         },
         "fillType": 0,
         "isEnabled": true,
@@ -120,5 +120,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
